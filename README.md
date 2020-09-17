@@ -37,7 +37,8 @@ At the end you will see a text of the winner or a message that says "It's a tie!
 ## How to run
 
 1. Double click Install.vbs
-2. Now, a window that should get you through Python installation should open.
+2. Now, a window that should get you through Python installation should open. 
+(If you already have Python installed on your machine just close the window and jump to step 5)
 3. Before clicking "Install Now" make sure you check "Add Python 3.8 to PATH", it is essential for the game in order to run.
 4. After the installation is done, click Close.
 5. Open the game by double clicking the Tictactoe.vbs file
