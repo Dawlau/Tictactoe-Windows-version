@@ -1,5 +1,7 @@
 # Tictactoe (Windows version)
 
+Download link: https://tinyurl.com/y6ef5tjg
+
 This is a Tic-tac-toe game developed with [Python 3.8](https://www.python.org/) and [Pygame](https://www.pygame.org/news).
 
 Most of the project was done using just basic Python. Pygame was used for GUI and Event Handling.
